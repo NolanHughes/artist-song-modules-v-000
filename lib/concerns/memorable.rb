@@ -1,9 +1,9 @@
 module Memorable
 
-  def self.reset_all
+  def reset_all
     @@songs.clear
   end
-  # 
+  #
   # def count
   #   self.all.count
   # end
