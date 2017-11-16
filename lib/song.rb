@@ -21,7 +21,7 @@ class Song
   end
 
   # def self.reset_all
-  #   @@songs.clear
+  #   self.all.clear
   # end
 
   def to_param
