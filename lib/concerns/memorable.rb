@@ -10,7 +10,9 @@ module Memorable
   end
 
   module ClassMethods
-    
+    def initialize
+
+    end
   end
 
 end
